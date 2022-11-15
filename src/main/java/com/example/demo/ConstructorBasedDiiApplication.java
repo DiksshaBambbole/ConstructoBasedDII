@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class ConstructorBasedDiiApplication {
+String s="Diksha";
 
 	public static void main(String[] args) {
 		SpringApplication.run(ConstructorBasedDiiApplication.class, args);
